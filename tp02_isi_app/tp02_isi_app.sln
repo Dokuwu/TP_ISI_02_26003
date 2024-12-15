@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp02_isi_app", "tp02_isi_app\tp02_isi_app.csproj", "{C6F97910-0EF8-4155-93EC-E6C1FACB3FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6F97910-0EF8-4155-93EC-E6C1FACB3FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F97910-0EF8-4155-93EC-E6C1FACB3FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F97910-0EF8-4155-93EC-E6C1FACB3FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F97910-0EF8-4155-93EC-E6C1FACB3FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C4B94F4-2F41-422E-9C4C-815AB0071A3E}
+	EndGlobalSection
+EndGlobal

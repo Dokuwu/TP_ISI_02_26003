@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="tp02_isi_wcf.Service2" CodeBehind="LocalPrevisao.svc.cs" %>

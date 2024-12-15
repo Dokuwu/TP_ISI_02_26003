@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\VisualStudio\ISI\TP_ISI_02_26003\tp02_isi_soap\tp02_isi_soap\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\VisualStudio\ISI\TP_ISI_02_26003\tp02_isi_soap\tp02_isi_soap\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\VisualStudio\ISI\TP_ISI_02_26003\tp02_isi_soap\tp02_isi_soap\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

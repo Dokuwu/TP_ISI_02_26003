@@ -1,0 +1,7 @@
+C:\VisualStudio\ISI\TP_ISI_02_26003\tp02_isi_wcf\tp02_isi_wcf\bin\tp02_isi_wcf.dll.config
+C:\VisualStudio\ISI\TP_ISI_02_26003\tp02_isi_wcf\tp02_isi_wcf\bin\tp02_isi_wcf.dll
+C:\VisualStudio\ISI\TP_ISI_02_26003\tp02_isi_wcf\tp02_isi_wcf\bin\tp02_isi_wcf.pdb
+C:\VisualStudio\ISI\TP_ISI_02_26003\tp02_isi_wcf\tp02_isi_wcf\obj\Debug\tp02_isi_wcf.csproj.AssemblyReference.cache
+C:\VisualStudio\ISI\TP_ISI_02_26003\tp02_isi_wcf\tp02_isi_wcf\obj\Debug\tp02_isi_wcf.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ISI\TP_ISI_02_26003\tp02_isi_wcf\tp02_isi_wcf\obj\Debug\tp02_isi_wcf.dll
+C:\VisualStudio\ISI\TP_ISI_02_26003\tp02_isi_wcf\tp02_isi_wcf\obj\Debug\tp02_isi_wcf.pdb

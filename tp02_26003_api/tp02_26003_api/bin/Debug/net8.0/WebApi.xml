@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>tp02_26003_api</name>
+    </assembly>
+    <members>
+        <member name="M:tp02_26003_api.Controllers.WeatherForecastController.Get">
+            <summary>
+            Exemplo de api
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:tp02_26003_api.WeatherForecast">
+            <summary>
+            Classe de weather
+            </summary>
+        </member>
+        <member name="P:tp02_26003_api.WeatherForecast.Date">
+            <summary>
+            data do weather
+            </summary>
+        </member>
+        <member name="P:tp02_26003_api.WeatherForecast.TemperatureC">
+            <summary>
+            temperature
+            </summary>
+        </member>
+        <member name="P:tp02_26003_api.WeatherForecast.TemperatureF">
+            <summary>
+            temperatura farenheint
+            </summary>
+        </member>
+        <member name="P:tp02_26003_api.WeatherForecast.Summary">
+            <summary>
+            sumario sobre o weather
+            </summary>
+        </member>
+    </members>
+</doc>
