@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VisualStudio\\ISI\\tp02_26003_api\\tp02_26003_api\\tp02_26003_api.csproj": {}
+    "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_26003_api\\tp02_26003_api\\tp02_26003_api.csproj": {}
   },
   "projects": {
-    "C:\\VisualStudio\\ISI\\tp02_26003_api\\tp02_26003_api\\tp02_26003_api.csproj": {
+    "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_26003_api\\tp02_26003_api\\tp02_26003_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VisualStudio\\ISI\\tp02_26003_api\\tp02_26003_api\\tp02_26003_api.csproj",
+        "projectUniqueName": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_26003_api\\tp02_26003_api\\tp02_26003_api.csproj",
         "projectName": "tp02_26003_api",
-        "projectPath": "C:\\VisualStudio\\ISI\\tp02_26003_api\\tp02_26003_api\\tp02_26003_api.csproj",
+        "projectPath": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_26003_api\\tp02_26003_api\\tp02_26003_api.csproj",
         "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
-        "outputPath": "C:\\VisualStudio\\ISI\\tp02_26003_api\\tp02_26003_api\\obj\\",
+        "outputPath": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_26003_api\\tp02_26003_api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",

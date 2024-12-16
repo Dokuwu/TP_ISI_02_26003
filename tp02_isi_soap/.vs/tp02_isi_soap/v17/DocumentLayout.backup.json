@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\services\\historicows.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|solutionrelative:tp02_isi_soap\\services\\historicows.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|c:\\visualstudio\\isi\\tp_isi_02_26003\\tp02_isi_soap\\tp02_isi_soap\\services\\utilizadorws.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\services\\utilizadorws.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|solutionrelative:tp02_isi_soap\\services\\utilizadorws.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|c:\\visualstudio\\isi\\tp_isi_02_26003\\tp02_isi_soap\\tp02_isi_soap\\databaseazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|solutionrelative:tp02_isi_soap\\databaseazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|c:\\visualstudio\\isi\\tp_isi_02_26003\\tp02_isi_soap\\tp02_isi_soap\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|solutionrelative:tp02_isi_soap\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|c:\\visualstudio\\isi\\tp_isi_02_26003\\tp02_isi_soap\\tp02_isi_soap\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|solutionrelative:tp02_isi_soap\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\historicoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|solutionrelative:tp02_isi_soap\\historicoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|solutionrelative:tp02_isi_soap\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\historicoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|solutionrelative:tp02_isi_soap\\historicoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|c:\\visualstudio\\isi\\tp_isi_02_26003\\tp02_isi_soap\\tp02_isi_soap\\services\\historicows.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|solutionrelative:tp02_isi_soap\\services\\historicows.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\databaseazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|solutionrelative:tp02_isi_soap\\databaseazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|solutionrelative:tp02_isi_soap\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B283C462-E46F-4FB3-99A5-D92E02E5039E}|tp02_isi_soap\\tp02_isi_soap.csproj|solutionrelative:tp02_isi_soap\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UtilizadorWS.asmx.cs",
               "DocumentMoniker": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\Services\\UtilizadorWS.asmx.cs",
               "RelativeDocumentMoniker": "tp02_isi_soap\\Services\\UtilizadorWS.asmx.cs",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\Web.config",
               "RelativeDocumentMoniker": "tp02_isi_soap\\Web.config",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HistoricoWS.asmx.cs",
               "DocumentMoniker": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\Services\\HistoricoWS.asmx.cs",
               "RelativeDocumentMoniker": "tp02_isi_soap\\Services\\HistoricoWS.asmx.cs",
@@ -81,20 +81,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "HistoricoClass.cs",
               "DocumentMoniker": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\HistoricoClass.cs",
               "RelativeDocumentMoniker": "tp02_isi_soap\\HistoricoClass.cs",
               "ToolTip": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\HistoricoClass.cs",
               "RelativeToolTip": "tp02_isi_soap\\HistoricoClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T14:27:40.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DatabaseAzure.cs",
               "DocumentMoniker": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\DatabaseAzure.cs",
               "RelativeDocumentMoniker": "tp02_isi_soap\\DatabaseAzure.cs",
@@ -102,12 +102,24 @@
               "RelativeToolTip": "tp02_isi_soap\\DatabaseAzure.cs",
               "ViewState": "AgIAAAwBAAAAAAAAAAAowAsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T11:44:08.251Z",
+              "WhenOpened": "2024-12-14T11:44:08.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilizador.cs",
+              "DocumentMoniker": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\Utilizador.cs",
+              "RelativeDocumentMoniker": "tp02_isi_soap\\Utilizador.cs",
+              "ToolTip": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\Utilizador.cs",
+              "RelativeToolTip": "tp02_isi_soap\\Utilizador.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:25:04.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\packages.config",
               "RelativeDocumentMoniker": "tp02_isi_soap\\packages.config",
@@ -115,21 +127,7 @@
               "RelativeToolTip": "tp02_isi_soap\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-15T11:21:52.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Utilizador.cs",
-              "DocumentMoniker": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\Utilizador.cs",
-              "RelativeDocumentMoniker": "tp02_isi_soap\\Utilizador.cs",
-              "ToolTip": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_soap\\tp02_isi_soap\\Utilizador.cs",
-              "RelativeToolTip": "tp02_isi_soap\\Utilizador.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T14:25:04.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T11:21:52.197Z"
             }
           ]
         }

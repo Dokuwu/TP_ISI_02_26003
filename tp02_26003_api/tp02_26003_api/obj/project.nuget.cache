@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "33EGEClbdZk=",
+  "dgSpecHash": "OAzWLkxfRvo=",
   "success": true,
-  "projectFilePath": "C:\\VisualStudio\\ISI\\tp02_26003_api\\tp02_26003_api\\tp02_26003_api.csproj",
+  "projectFilePath": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_26003_api\\tp02_26003_api\\tp02_26003_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fabio\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Fabio\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

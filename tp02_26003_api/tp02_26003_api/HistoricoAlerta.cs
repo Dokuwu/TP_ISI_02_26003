@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace tp02_isi_soap
+﻿namespace tp02_26003_api
 {
+    /// <summary>
+    /// Classe representante de um registo de alerta perante um local
+    /// </summary>
     public class HistoricoAlerta
     {
         private int localid;
@@ -44,14 +42,14 @@ namespace tp02_isi_soap
             set { data = value; }
         }
 
-         
+
         public string Desc
         {
             get { return desc; }
             set { desc = value; }
         }
 
-         
+
         public string Tipo
         {
             get { return tipo; }

@@ -3,19 +3,7 @@
   "WorkspaceRootPath": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_wcf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D5C84BD-3EBB-4CAA-850B-69D1762446A6}|tp02_isi_wcf\\tp02_isi_wcf.csproj|c:\\visualstudio\\isi\\tp_isi_02_26003\\tp02_isi_wcf\\tp02_isi_wcf\\databaseazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5C84BD-3EBB-4CAA-850B-69D1762446A6}|tp02_isi_wcf\\tp02_isi_wcf.csproj|solutionrelative:tp02_isi_wcf\\databaseazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5C84BD-3EBB-4CAA-850B-69D1762446A6}|tp02_isi_wcf\\tp02_isi_wcf.csproj|C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_wcf\\tp02_isi_wcf\\ilocalprevisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5C84BD-3EBB-4CAA-850B-69D1762446A6}|tp02_isi_wcf\\tp02_isi_wcf.csproj|solutionrelative:tp02_isi_wcf\\ilocalprevisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5C84BD-3EBB-4CAA-850B-69D1762446A6}|tp02_isi_wcf\\tp02_isi_wcf.csproj|C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_wcf\\tp02_isi_wcf\\localprevisao.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D5C84BD-3EBB-4CAA-850B-69D1762446A6}|tp02_isi_wcf\\tp02_isi_wcf.csproj|solutionrelative:tp02_isi_wcf\\localprevisao.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D5C84BD-3EBB-4CAA-850B-69D1762446A6}|tp02_isi_wcf\\tp02_isi_wcf.csproj|C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_wcf\\tp02_isi_wcf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{3D5C84BD-3EBB-4CAA-850B-69D1762446A6}|tp02_isi_wcf\\tp02_isi_wcf.csproj|c:\\visualstudio\\isi\\tp_isi_02_26003\\tp02_isi_wcf\\tp02_isi_wcf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3D5C84BD-3EBB-4CAA-850B-69D1762446A6}|tp02_isi_wcf\\tp02_isi_wcf.csproj|solutionrelative:tp02_isi_wcf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -26,11 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_wcf\\tp02_isi_wcf\\Web.config",
               "RelativeDocumentMoniker": "tp02_isi_wcf\\Web.config",
@@ -39,45 +27,6 @@
               "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-12-14T11:29:48.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LocalPrevisao.svc.cs",
-              "DocumentMoniker": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_wcf\\tp02_isi_wcf\\LocalPrevisao.svc.cs",
-              "RelativeDocumentMoniker": "tp02_isi_wcf\\LocalPrevisao.svc.cs",
-              "ToolTip": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_wcf\\tp02_isi_wcf\\LocalPrevisao.svc.cs",
-              "RelativeToolTip": "tp02_isi_wcf\\LocalPrevisao.svc.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T12:41:13.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DatabaseAzure.cs",
-              "DocumentMoniker": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_wcf\\tp02_isi_wcf\\DatabaseAzure.cs",
-              "RelativeDocumentMoniker": "tp02_isi_wcf\\DatabaseAzure.cs",
-              "ToolTip": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_wcf\\tp02_isi_wcf\\DatabaseAzure.cs",
-              "RelativeToolTip": "tp02_isi_wcf\\DatabaseAzure.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T12:38:55.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ILocalPrevisao.cs",
-              "DocumentMoniker": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_wcf\\tp02_isi_wcf\\ILocalPrevisao.cs",
-              "RelativeDocumentMoniker": "tp02_isi_wcf\\ILocalPrevisao.cs",
-              "ToolTip": "C:\\VisualStudio\\ISI\\TP_ISI_02_26003\\tp02_isi_wcf\\tp02_isi_wcf\\ILocalPrevisao.cs",
-              "RelativeToolTip": "tp02_isi_wcf\\ILocalPrevisao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T12:41:07.166Z",
               "EditorCaption": ""
             }
           ]
